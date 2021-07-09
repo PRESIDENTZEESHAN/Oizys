@@ -34,7 +34,6 @@ opt-einsum==3.3.0
 packaging==21.0
 pandas==1.3.0
 pathy==0.6.0
-pickle5 @ file:///D:/bld/pickle5_1623183604889/work
 preshed==3.0.5
 protobuf==3.17.3
 pyasn1==0.4.8
